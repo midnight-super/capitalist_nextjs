@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "name": "Customizable 4thgeneration",
+    "platform": "Zoom",
+    "time": "05 Sep 2024, 07:53 AM",
+    "createdBy": "Daniel Doyle",
+    "dueDate": "14 Sep 2024, 07:53 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "name": "User-centric needs-based",
+    "platform": "Teams",
+    "time": "19 Sep 2024, 07:17 PM",
+    "createdBy": "Amanda Davis",
+    "dueDate": "21 Sep 2024, 07:17 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 3,
+    "name": "Profit-focused real-time",
+    "platform": "Teams",
+    "time": "31 Mar 2024, 08:33 AM",
+    "createdBy": "Michelle Miles",
+    "dueDate": "02 Apr 2024, 08:33 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 4,
+    "name": "Face-to-face local parallelism",
+    "platform": "Zoom",
+    "time": "11 Jun 2024, 10:12 PM",
+    "createdBy": "Sean Blake",
+    "dueDate": "18 Jun 2024, 10:12 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 5,
+    "name": "Total interactive Graphical",
+    "platform": "Zoom",
+    "time": "03 Mar 2024, 12:07 AM",
+    "createdBy": "Daniel Gallagher",
+    "dueDate": "13 Mar 2024, 12:07 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 6,
+    "name": "Cross-group homogeneous",
+    "platform": "Zoom",
+    "time": "09 Feb 2024, 04:40 PM",
+    "createdBy": "Gregory Baker",
+    "dueDate": "14 Feb 2024, 04:40 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 7,
+    "name": "Upgradable logistical",
+    "platform": "Teams",
+    "time": "17 Jan 2024, 08:59 PM",
+    "createdBy": "Thomas Miller",
+    "dueDate": "27 Jan 2024, 08:59 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 8,
+    "name": "Self-enabling regional hierarchy",
+    "platform": "Zoom",
+    "time": "23 Apr 2024, 08:37 PM",
+    "createdBy": "Michele Williams",
+    "dueDate": "27 Apr 2024, 08:37 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 9,
+    "name": "Visionary explicit artificial",
+    "platform": "Teams",
+    "time": "29 Mar 2024, 12:09 PM",
+    "createdBy": "Sharon James",
+    "dueDate": "02 Apr 2024, 12:09 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 10,
+    "name": "Sharable high-level complexity",
+    "platform": "Google Meet",
+    "time": "25 Jun 2024, 02:05 AM",
+    "createdBy": "Daniel Adams",
+    "dueDate": "04 Jul 2024, 02:05 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 11,
+    "name": "Stand-alone asynchronous portal",
+    "platform": "Teams",
+    "time": "22 Sep 2024, 11:07 AM",
+    "createdBy": "Kimberly Sanchez",
+    "dueDate": "02 Oct 2024, 11:07 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 12,
+    "name": "Multi-tiered encompassing",
+    "platform": "Google Meet",
+    "time": "28 Jun 2024, 12:34 PM",
+    "createdBy": "Colleen Nguyen",
+    "dueDate": "03 Jul 2024, 12:34 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 13,
+    "name": "Vision-oriented analyzing emulation",
+    "platform": "Teams",
+    "time": "25 Oct 2024, 09:12 AM",
+    "createdBy": "Renee Morales",
+    "dueDate": "31 Oct 2024, 09:12 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 14,
+    "name": "Extended non-volatile structure",
+    "platform": "Teams",
+    "time": "26 Jan 2024, 04:55 PM",
+    "createdBy": "Matthew Foster",
+    "dueDate": "27 Jan 2024, 04:55 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 15,
+    "name": "Persevering client-server firmware",
+    "platform": "Google Meet",
+    "time": "06 Sep 2024, 03:48 PM",
+    "createdBy": "Patrick Ryan",
+    "dueDate": "13 Sep 2024, 03:48 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 16,
+    "name": "Reduced interactive paradigm",
+    "platform": "Google Meet",
+    "time": "17 Oct 2024, 02:40 AM",
+    "createdBy": "Daniel Bright",
+    "dueDate": "26 Oct 2024, 02:40 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 17,
+    "name": "Proactive background system",
+    "platform": "Google Meet",
+    "time": "16 Jul 2024, 09:07 PM",
+    "createdBy": "Brian Burton",
+    "dueDate": "22 Jul 2024, 09:07 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 18,
+    "name": "Synergized interactive policy",
+    "platform": "Zoom",
+    "time": "03 Nov 2024, 02:42 PM",
+    "createdBy": "James Ferrell",
+    "dueDate": "06 Nov 2024, 02:42 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 19,
+    "name": "Function-based neutral access",
+    "platform": "Teams",
+    "time": "24 Jul 2024, 11:42 AM",
+    "createdBy": "Ashley Dyer",
+    "dueDate": "02 Aug 2024, 11:42 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 20,
+    "name": "Future-proofed zero administration",
+    "platform": "Google Meet",
+    "time": "18 Oct 2024, 02:41 PM",
+    "createdBy": "Edward Moore",
+    "dueDate": "25 Oct 2024, 02:41 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 21,
+    "name": "Up-sized uniform firmware",
+    "platform": "Google Meet",
+    "time": "02 Jan 2024, 06:14 AM",
+    "createdBy": "Pamela Romero",
+    "dueDate": "07 Jan 2024, 06:14 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 22,
+    "name": "Self-enabling exuding productivity",
+    "platform": "Teams",
+    "time": "11 Feb 2024, 07:49 AM",
+    "createdBy": "Christina Brooks",
+    "dueDate": "15 Feb 2024, 07:49 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 23,
+    "name": "Quality-focused zero-defect",
+    "platform": "Zoom",
+    "time": "03 Mar 2024, 05:44 PM",
+    "createdBy": "Linda Burns",
+    "dueDate": "06 Mar 2024, 05:44 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 24,
+    "name": "Multi-lateral fault-tolerant encoding",
+    "platform": "Google Meet",
+    "time": "13 Feb 2024, 10:40 AM",
+    "createdBy": "Shawn Arroyo",
+    "dueDate": "20 Feb 2024, 10:40 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 25,
+    "name": "Upgradable mobile architecture",
+    "platform": "Teams",
+    "time": "03 Feb 2024, 06:20 AM",
+    "createdBy": "Kim Martinez",
+    "dueDate": "11 Feb 2024, 06:20 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 26,
+    "name": "Phased neutral concept",
+    "platform": "Google Meet",
+    "time": "13 Sep 2024, 05:19 AM",
+    "createdBy": "Shane Henderson",
+    "dueDate": "22 Sep 2024, 05:19 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 27,
+    "name": "Quality-focused web-enabled",
+    "platform": "Teams",
+    "time": "23 Mar 2024, 06:06 AM",
+    "createdBy": "Michelle Ross",
+    "dueDate": "24 Mar 2024, 06:06 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 28,
+    "name": "Streamlined holistic intranet",
+    "platform": "Google Meet",
+    "time": "17 Sep 2024, 08:34 PM",
+    "createdBy": "Jocelyn Wright",
+    "dueDate": "20 Sep 2024, 08:34 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 29,
+    "name": "Mandatory 3rdgeneration",
+    "platform": "Zoom",
+    "time": "25 Jan 2024, 08:45 PM",
+    "createdBy": "Leah Smith",
+    "dueDate": "01 Feb 2024, 08:45 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 30,
+    "name": "Self-enabling analyzing emulation",
+    "platform": "Google Meet",
+    "time": "01 Oct 2024, 09:33 PM",
+    "createdBy": "Andre Rivera",
+    "dueDate": "03 Oct 2024, 09:33 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 31,
+    "name": "Front-line even-keeled secured line",
+    "platform": "Teams",
+    "time": "18 Jul 2024, 04:16 PM",
+    "createdBy": "Mr. Nathaniel Khan",
+    "dueDate": "19 Jul 2024, 04:16 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 32,
+    "name": "Phased dynamic toolset",
+    "platform": "Google Meet",
+    "time": "11 Aug 2024, 06:40 PM",
+    "createdBy": "Jason Davis",
+    "dueDate": "19 Aug 2024, 06:40 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 33,
+    "name": "Optional heuristic interface",
+    "platform": "Teams",
+    "time": "12 Sep 2024, 10:09 PM",
+    "createdBy": "Scott Brown",
+    "dueDate": "18 Sep 2024, 10:09 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 34,
+    "name": "Stand-alone bandwidth-monitored",
+    "platform": "Google Meet",
+    "time": "10 Sep 2024, 06:38 PM",
+    "createdBy": "Gerald Hensley",
+    "dueDate": "16 Sep 2024, 06:38 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 35,
+    "name": "Ergonomic content-based",
+    "platform": "Teams",
+    "time": "06 Apr 2024, 01:38 PM",
+    "createdBy": "Javier Ramirez",
+    "dueDate": "12 Apr 2024, 01:38 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 36,
+    "name": "Compatible leadingedge workforce",
+    "platform": "Zoom",
+    "time": "07 Apr 2024, 12:21 AM",
+    "createdBy": "Krista Williams",
+    "dueDate": "08 Apr 2024, 12:21 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 37,
+    "name": "Advanced background system",
+    "platform": "Zoom",
+    "time": "28 Jul 2024, 10:38 PM",
+    "createdBy": "Carol Tucker",
+    "dueDate": "31 Jul 2024, 10:38 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 38,
+    "name": "Open-architected analyzing concept",
+    "platform": "Google Meet",
+    "time": "24 Mar 2024, 12:16 AM",
+    "createdBy": "William Baker",
+    "dueDate": "26 Mar 2024, 12:16 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 39,
+    "name": "Persevering executive interface",
+    "platform": "Zoom",
+    "time": "31 Oct 2024, 12:04 PM",
+    "createdBy": "Monica Logan",
+    "dueDate": "02 Nov 2024, 12:04 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 40,
+    "name": "Universal mobile collaboration",
+    "platform": "Teams",
+    "time": "14 Sep 2024, 01:05 AM",
+    "createdBy": "Daniel Brown",
+    "dueDate": "15 Sep 2024, 01:05 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 41,
+    "name": "Quality-focused analyzing",
+    "platform": "Zoom",
+    "time": "12 Oct 2024, 05:34 PM",
+    "createdBy": "Anthony Woods",
+    "dueDate": "16 Oct 2024, 05:34 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 42,
+    "name": "Diverse analyzing migration",
+    "platform": "Zoom",
+    "time": "25 Jul 2024, 06:27 AM",
+    "createdBy": "Cody Larson",
+    "dueDate": "31 Jul 2024, 06:27 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 43,
+    "name": "Front-line impactful capability",
+    "platform": "Teams",
+    "time": "19 Sep 2024, 05:26 AM",
+    "createdBy": "Laura Riley",
+    "dueDate": "29 Sep 2024, 05:26 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 44,
+    "name": "Secured attitude-oriented",
+    "platform": "Google Meet",
+    "time": "16 Jan 2024, 10:25 AM",
+    "createdBy": "Krystal Stewart",
+    "dueDate": "22 Jan 2024, 10:25 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 45,
+    "name": "Expanded static structure",
+    "platform": "Zoom",
+    "time": "11 Apr 2024, 06:30 AM",
+    "createdBy": "Derek Anderson",
+    "dueDate": "21 Apr 2024, 06:30 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 46,
+    "name": "Innovative logistical functionalities",
+    "platform": "Zoom",
+    "time": "07 Sep 2024, 04:30 PM",
+    "createdBy": "Taylor Smith",
+    "dueDate": "13 Sep 2024, 04:30 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 47,
+    "name": "Re-contextualized bandwidth",
+    "platform": "Zoom",
+    "time": "29 Aug 2024, 05:37 AM",
+    "createdBy": "Katie Anderson",
+    "dueDate": "04 Sep 2024, 05:37 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 48,
+    "name": "Cloned dynamic hub",
+    "platform": "Teams",
+    "time": "15 May 2024, 12:59 PM",
+    "createdBy": "Jeffrey Daniels",
+    "dueDate": "22 May 2024, 12:59 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 49,
+    "name": "Seamless solution-oriented",
+    "platform": "Google Meet",
+    "time": "27 Apr 2024, 11:39 AM",
+    "createdBy": "Robert Evans",
+    "dueDate": "04 May 2024, 11:39 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 50,
+    "name": "Customer-focused client-driven",
+    "platform": "Google Meet",
+    "time": "14 Sep 2024, 03:13 PM",
+    "createdBy": "Brian Tran",
+    "dueDate": "23 Sep 2024, 03:13 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 51,
+    "name": "Horizontal real-time database",
+    "platform": "Google Meet",
+    "time": "15 Apr 2024, 06:28 PM",
+    "createdBy": "Christina Walters",
+    "dueDate": "16 Apr 2024, 06:28 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 52,
+    "name": "Profit-focused mobile extranet",
+    "platform": "Zoom",
+    "time": "12 Apr 2024, 12:30 PM",
+    "createdBy": "Sarah Davis",
+    "dueDate": "17 Apr 2024, 12:30 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 53,
+    "name": "Grass-roots 6thgeneration ability",
+    "platform": "Teams",
+    "time": "13 Jun 2024, 12:00 PM",
+    "createdBy": "Carlos Whitney",
+    "dueDate": "19 Jun 2024, 12:00 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 54,
+    "name": "User-centric leadingedge neural-net",
+    "platform": "Google Meet",
+    "time": "03 Mar 2024, 06:03 PM",
+    "createdBy": "Kristina Rodriguez",
+    "dueDate": "13 Mar 2024, 06:03 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 55,
+    "name": "Distributed needs-based alliance",
+    "platform": "Google Meet",
+    "time": "25 Sep 2024, 08:46 AM",
+    "createdBy": "Lauren Hernandez",
+    "dueDate": "02 Oct 2024, 08:46 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 56,
+    "name": "Balanced fault-tolerant hierarchy",
+    "platform": "Zoom",
+    "time": "19 Feb 2024, 11:52 AM",
+    "createdBy": "Rebecca Valencia",
+    "dueDate": "24 Feb 2024, 11:52 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 57,
+    "name": "Expanded systemic encryption",
+    "platform": "Zoom",
+    "time": "18 May 2024, 11:01 PM",
+    "createdBy": "Heather Castro",
+    "dueDate": "23 May 2024, 11:01 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 58,
+    "name": "Secured value-added collaboration",
+    "platform": "Google Meet",
+    "time": "06 Jun 2024, 07:42 PM",
+    "createdBy": "Cynthia Martin",
+    "dueDate": "10 Jun 2024, 07:42 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 59,
+    "name": "Enhanced incremental algorithm",
+    "platform": "Google Meet",
+    "time": "06 Nov 2024, 03:29 PM",
+    "createdBy": "Tim Patton",
+    "dueDate": "09 Nov 2024, 03:29 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 60,
+    "name": "Synchronized user-facing workforce",
+    "platform": "Teams",
+    "time": "08 Jun 2024, 09:26 PM",
+    "createdBy": "Christopher Haynes",
+    "dueDate": "13 Jun 2024, 09:26 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 61,
+    "name": "Automated methodical definition",
+    "platform": "Google Meet",
+    "time": "28 May 2024, 01:32 PM",
+    "createdBy": "Thomas Bailey",
+    "dueDate": "04 Jun 2024, 01:32 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 62,
+    "name": "Focused directional algorithm",
+    "platform": "Google Meet",
+    "time": "14 Nov 2024, 03:57 PM",
+    "createdBy": "Jennifer Ramirez",
+    "dueDate": "15 Nov 2024, 03:57 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 63,
+    "name": "Visionary even-keeled hardware",
+    "platform": "Google Meet",
+    "time": "27 Jan 2024, 11:02 PM",
+    "createdBy": "Jennifer Zavala",
+    "dueDate": "29 Jan 2024, 11:02 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 64,
+    "name": "Managed 4thgeneration budgetary management",
+    "platform": "Google Meet",
+    "time": "27 Jul 2024, 05:53 AM",
+    "createdBy": "Debbie Carpenter",
+    "dueDate": "28 Jul 2024, 05:53 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 65,
+    "name": "Automated bi-directional policy",
+    "platform": "Google Meet",
+    "time": "13 Apr 2024, 02:19 AM",
+    "createdBy": "Nicholas Edwards",
+    "dueDate": "19 Apr 2024, 02:19 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 66,
+    "name": "Profound bifurcated info-mediaries",
+    "platform": "Zoom",
+    "time": "23 Aug 2024, 10:16 AM",
+    "createdBy": "Cheryl Williams",
+    "dueDate": "27 Aug 2024, 10:16 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 67,
+    "name": "Adaptive multi-state workforce",
+    "platform": "Google Meet",
+    "time": "18 Jun 2024, 08:21 AM",
+    "createdBy": "Michelle Harmon",
+    "dueDate": "23 Jun 2024, 08:21 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 68,
+    "name": "Exclusive high-level Internet solution",
+    "platform": "Teams",
+    "time": "17 Sep 2024, 10:42 AM",
+    "createdBy": "Matthew Rivera",
+    "dueDate": "26 Sep 2024, 10:42 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 69,
+    "name": "Switchable bottom-line success",
+    "platform": "Zoom",
+    "time": "01 May 2024, 09:54 PM",
+    "createdBy": "Katie Estrada",
+    "dueDate": "04 May 2024, 09:54 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 70,
+    "name": "Open-architected tangible frame",
+    "platform": "Teams",
+    "time": "06 May 2024, 04:14 PM",
+    "createdBy": "Cheryl Ortega",
+    "dueDate": "13 May 2024, 04:14 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 71,
+    "name": "Synergistic value-added conglomeration",
+    "platform": "Google Meet",
+    "time": "27 May 2024, 05:53 AM",
+    "createdBy": "Elizabeth Kelley",
+    "dueDate": "02 Jun 2024, 05:53 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 72,
+    "name": "Innovative executive database",
+    "platform": "Teams",
+    "time": "01 Jan 2024, 03:47 AM",
+    "createdBy": "Kevin Pena",
+    "dueDate": "04 Jan 2024, 03:47 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 73,
+    "name": "Organic leadingedge service-desk",
+    "platform": "Teams",
+    "time": "29 Jun 2024, 02:00 PM",
+    "createdBy": "John Santana",
+    "dueDate": "07 Jul 2024, 02:00 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 74,
+    "name": "User-centric composite protocol",
+    "platform": "Teams",
+    "time": "05 Nov 2024, 03:29 AM",
+    "createdBy": "Jose Schultz",
+    "dueDate": "07 Nov 2024, 03:29 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 75,
+    "name": "Cross-group web-enabled encoding",
+    "platform": "Teams",
+    "time": "10 May 2024, 04:10 AM",
+    "createdBy": "Courtney Gonzalez",
+    "dueDate": "15 May 2024, 04:10 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 76,
+    "name": "Balanced dynamic leverage",
+    "platform": "Teams",
+    "time": "10 Jan 2024, 11:39 AM",
+    "createdBy": "Patricia Gibson",
+    "dueDate": "16 Jan 2024, 11:39 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 77,
+    "name": "Re-engineered content-based structure",
+    "platform": "Teams",
+    "time": "01 Sep 2024, 01:50 PM",
+    "createdBy": "Kathleen Sanchez",
+    "dueDate": "07 Sep 2024, 01:50 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 78,
+    "name": "Team-oriented 24hour system engine",
+    "platform": "Teams",
+    "time": "11 Sep 2024, 06:54 PM",
+    "createdBy": "Stacey Osborne",
+    "dueDate": "15 Sep 2024, 06:54 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 79,
+    "name": "Enhanced tangible model",
+    "platform": "Teams",
+    "time": "25 Mar 2024, 11:44 PM",
+    "createdBy": "Justin Lowery",
+    "dueDate": "26 Mar 2024, 11:44 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 80,
+    "name": "Persevering client-driven website",
+    "platform": "Teams",
+    "time": "17 Feb 2024, 03:08 AM",
+    "createdBy": "Joseph Hansen",
+    "dueDate": "19 Feb 2024, 03:08 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 81,
+    "name": "Versatile leadingedge pricing structure",
+    "platform": "Zoom",
+    "time": "03 May 2024, 05:25 AM",
+    "createdBy": "Stephanie Simmons",
+    "dueDate": "10 May 2024, 05:25 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 82,
+    "name": "Organized cohesive synergy",
+    "platform": "Google Meet",
+    "time": "31 Jul 2024, 06:32 PM",
+    "createdBy": "Joanna Walton",
+    "dueDate": "10 Aug 2024, 06:32 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 83,
+    "name": "Sharable even-keeled throughput",
+    "platform": "Google Meet",
+    "time": "22 Nov 2024, 04:05 AM",
+    "createdBy": "Kari Allen",
+    "dueDate": "26 Nov 2024, 04:05 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 84,
+    "name": "Compatible transitional forecast",
+    "platform": "Teams",
+    "time": "19 Jun 2024, 07:54 PM",
+    "createdBy": "George Orozco",
+    "dueDate": "27 Jun 2024, 07:54 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 85,
+    "name": "Devolved coherent emulation",
+    "platform": "Zoom",
+    "time": "01 Feb 2024, 07:02 AM",
+    "createdBy": "Christian Lewis",
+    "dueDate": "08 Feb 2024, 07:02 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 86,
+    "name": "Open-source full-range moratorium",
+    "platform": "Teams",
+    "time": "10 Jun 2024, 02:50 AM",
+    "createdBy": "Antonio Wall",
+    "dueDate": "12 Jun 2024, 02:50 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 87,
+    "name": "Visionary optimal standardization",
+    "platform": "Zoom",
+    "time": "31 May 2024, 06:11 AM",
+    "createdBy": "Spencer Johnston",
+    "dueDate": "02 Jun 2024, 06:11 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 88,
+    "name": "Adaptive heuristic framework",
+    "platform": "Zoom",
+    "time": "04 Jul 2024, 05:46 AM",
+    "createdBy": "Sarah Ashley",
+    "dueDate": "06 Jul 2024, 05:46 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 89,
+    "name": "Public-key value-added support",
+    "platform": "Teams",
+    "time": "11 Jun 2024, 05:33 PM",
+    "createdBy": "Lindsey Walker",
+    "dueDate": "19 Jun 2024, 05:33 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 90,
+    "name": "Future-proofed intermediate matrix",
+    "platform": "Teams",
+    "time": "26 Mar 2024, 05:09 AM",
+    "createdBy": "George Shelton",
+    "dueDate": "04 Apr 2024, 05:09 AM",
+    "status": "In Progress"
+  },
+  {
+    "id": 91,
+    "name": "Up-sized composite Local Area Network",
+    "platform": "Zoom",
+    "time": "06 Jun 2024, 12:30 AM",
+    "createdBy": "Veronica Ferguson",
+    "dueDate": "15 Jun 2024, 12:30 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 92,
+    "name": "Reverse-engineered non-volatile protocol",
+    "platform": "Google Meet",
+    "time": "02 Jun 2024, 12:32 AM",
+    "createdBy": "Marvin Taylor",
+    "dueDate": "11 Jun 2024, 12:32 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 93,
+    "name": "Enterprise-wide actuating firmware",
+    "platform": "Google Meet",
+    "time": "28 Jun 2024, 07:20 AM",
+    "createdBy": "Daniel Murphy",
+    "dueDate": "30 Jun 2024, 07:20 AM",
+    "status": "Complete"
+  },
+  {
+    "id": 94,
+    "name": "Multi-tiered even-keeled system engine",
+    "platform": "Teams",
+    "time": "22 Oct 2024, 03:10 PM",
+    "createdBy": "Jennifer Conley",
+    "dueDate": "23 Oct 2024, 03:10 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 95,
+    "name": "Ameliorated value-added moratorium",
+    "platform": "Zoom",
+    "time": "01 Jul 2024, 03:34 PM",
+    "createdBy": "Trevor Walker",
+    "dueDate": "02 Jul 2024, 03:34 PM",
+    "status": "In Progress"
+  },
+  {
+    "id": 96,
+    "name": "Vision-oriented solution-oriented analyzer",
+    "platform": "Google Meet",
+    "time": "27 Jan 2024, 03:34 PM",
+    "createdBy": "Tiffany Gonzalez",
+    "dueDate": "05 Feb 2024, 03:34 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 97,
+    "name": "Secured coherent encoding",
+    "platform": "Teams",
+    "time": "08 Jan 2024, 09:57 PM",
+    "createdBy": "Michael Elliott",
+    "dueDate": "13 Jan 2024, 09:57 PM",
+    "status": "Complete"
+  },
+  {
+    "id": 98,
+    "name": "Persistent tangible extranet",
+    "platform": "Zoom",
+    "time": "25 Mar 2024, 03:34 PM",
+    "createdBy": "Carol Lawson",
+    "dueDate": "28 Mar 2024, 03:34 PM",
+    "status": "Pending"
+  },
+  {
+    "id": 99,
+    "name": "Universal bifurcated time-frame",
+    "platform": "Google Meet",
+    "time": "17 Oct 2024, 11:10 AM",
+    "createdBy": "Traci Rodriguez",
+    "dueDate": "19 Oct 2024, 11:10 AM",
+    "status": "Pending"
+  },
+  {
+    "id": 100,
+    "name": "Integrated object-oriented service-desk",
+    "platform": "Google Meet",
+    "time": "10 Jan 2024, 11:20 PM",
+    "createdBy": "Jaime David",
+    "dueDate": "11 Jan 2024, 11:20 PM",
+    "status": "Pending"
+  }
+]

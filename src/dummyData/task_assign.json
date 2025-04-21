@@ -1,0 +1,27 @@
+{
+  "staffList": [
+    { "id": 1, "name": "Serhii Movchan", "role": "Senior Developer" },
+    { "id": 2, "name": "Vasilii Kovalchuk", "role": "UX Designer" },
+    { "id": 3, "name": "Vlad Sklyar", "role": "Backend Engineer" },
+    { "id": 4, "name": "Anna Petrenko", "role": "QA Specialist" },
+    { "id": 5, "name": "Oleksiy Ivanov", "role": "Project Manager" }
+  ],
+  "selectedTasks": [
+    { "id": "234453", "name": "Task Name Number 1", "files": 5, "audioHours": 2 },
+    { "id": "123221", "name": "Task Name Number 2", "files": 3, "audioHours": 1.5 }
+  ],
+  "addons": ["Add-on 1", "Add-on 2", "Add-on 3", "Add-on 4", "Add-on 5"],
+  "taskTypes": ["Task Type 1", "Task Type 2", "Task Type 3", "Task Type 4", "Task Type 5"],
+  "serviceCategories": [
+    { "id": 0, "value": "", "label": "None" },
+    { "id": 1, "value": "Frontend", "label": "Frontend" },
+    { "id": 2, "value": "Backend", "label": "Backend" },
+    { "id": 3, "value": "UI/UX", "label": "UI/UX" }
+  ],
+  "services": [
+    { "id": 0, "value": "", "label": "None" },
+    { "id": 1, "value": "Frontend", "label": "Frontend" },
+    { "id": 2, "value": "Backend", "label": "Backend" },
+    { "id": 3, "value": "UI/UX", "label": "UI/UX" }
+  ]
+}

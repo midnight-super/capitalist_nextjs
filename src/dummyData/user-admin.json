@@ -1,0 +1,76 @@
+{
+  "id": "deadbeef-dead-beef-babe-beef-deadbeef01",
+  "userId": "deadbeef-dead-beef-babe-beef-deadbeef01",
+  "username": "",
+
+  "fullName": "",
+  "status": "ACTIVE",
+  "email": "",
+
+  "roles": ["ENTERPRISEADMIN"],
+
+  "permissions": {
+    "p_order": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_staff": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_file": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_client": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_service": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_task": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_taskType": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_workflow": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_reseller": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    },
+    "p_designation": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": true,
+      "permissionCreate": true
+    }
+  },
+  "tokenType": "Bearer",
+  "accessToken": "token01"
+}

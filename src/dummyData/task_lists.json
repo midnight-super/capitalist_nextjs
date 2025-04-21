@@ -1,0 +1,2419 @@
+[
+  {
+    "taskId": "67709001-c76e-4180-b94d-d6e317510009",
+    "jobId": "DVJOBID",
+    "orderId": "DRAFT",
+    "orderUUID": "4717a7ba-1e3b-4c41-89d1-f3d5e455559f",
+    "taskTitle": "task 1",
+    "status": "CREATED",
+    "comments": null,
+    "dueDate": null,
+    "staffInstruction": null,
+    "createdAt": "2025-03-27T19:11:09",
+    "updatedAt": "2025-03-27T19:11:09",
+    "taskOutputs": [
+      {
+        "taskOutputId": "add22f0b-fac2-4b00-ab97-094869f5d26b",
+        "mappingType": null,
+        "r_files": [],
+        "fileId": [],
+        "data": null,
+        "status": null,
+        "outputValidator": {
+          "ioputId": "2f256f4b-926a-4745-a1a0-10a28aaa29e0",
+          "selectedOption": "Document File (pdf, docx, txt, etc)",
+          "taskIoputId": "95a7ae42-ded3-4de5-93a2-e5cdd9baa6a6",
+          "name": null
+        },
+        "tag": null
+      },
+      {
+        "taskOutputId": "673706b2-9114-475a-97a7-7b3d4ae1ed72",
+        "mappingType": null,
+        "r_files": [],
+        "fileId": [],
+        "data": null,
+        "status": null,
+        "outputValidator": {
+          "ioputId": "2f256f4b-926a-4745-a1a0-10a28aaa29e0",
+          "selectedOption": "Boolean (Yes/No)",
+          "taskIoputId": "a5d1b3f1-ec9a-4240-b477-219461a92278",
+          "name": null
+        },
+        "tag": null
+      }
+    ],
+    "taskInputs": [
+      {
+        "taskInputId": "5f48a0b2-1f0c-4211-b067-5f0bda25b2cb",
+        "mappingType": "FILE",
+        "otherTaskOutputId": null,
+        "otherTaskId": null,
+        "isRequired": true,
+        "inputValidator": {
+          "ioputId": "d95d4449-6721-4997-b271-7bea1581f1d1",
+          "selectedOption": "Document File (pdf, docx, txt, etc)",
+          "taskIoputId": "c6788da1-c081-4fda-bd0c-124f321bf382",
+          "name": null
+        },
+        "fileId": [],
+        "r_files": [],
+        "data": null,
+        "tag": null
+      },
+      {
+        "taskInputId": "bbbe4249-901e-46ef-b670-5eb513a39abc",
+        "mappingType": "TASK_OUTPUT",
+        "otherTaskOutputId": "0de8f266-e8ec-4b4d-8c48-60909090b37b",
+        "otherTaskId": "0494d197-6561-4ece-8bba-bf91cd2d8f8b",
+        "isRequired": true,
+        "inputValidator": {
+          "ioputId": "d95d4449-6721-4997-b271-7bea1581f1d1",
+          "selectedOption": "Document File (pdf, docx, txt, etc)",
+          "taskIoputId": "b776c9e2-b8f2-4dee-b462-648ff08f2885",
+          "name": null
+        },
+        "fileId": [],
+        "r_files": [],
+        "data": null,
+        "tag": null
+      }
+    ],
+    "workflowTaskId": "4c071ae6-c12e-4ac5-83a6-7872919e3ef6",
+    "orderPartId": "65129468-4ee5-4ae8-90ac-937c5b326620",
+    "serviceName": "Applicant Review",
+    "addons": [],
+    "assignees": [],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T19:11:09",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "7c5bea99-4004-4115-bbfa-8eb60e601bd2",
+    "jobId": "DVJOBID",
+    "orderId": "DRAFT",
+    "orderUUID": "4717a7ba-1e3b-4c41-89d1-f3d5e455559f",
+    "taskTitle": "task 2",
+    "status": "CREATED",
+    "comments": null,
+    "dueDate": null,
+    "staffInstruction": null,
+    "createdAt": "2025-03-27T19:11:09",
+    "updatedAt": "2025-03-27T19:11:09",
+    "taskOutputs": [
+      {
+        "taskOutputId": "47845afe-d0e6-45ca-b50a-0efcc97ba60a",
+        "mappingType": null,
+        "r_files": [],
+        "fileId": [],
+        "data": null,
+        "status": null,
+        "outputValidator": {
+          "ioputId": "2f256f4b-926a-4745-a1a0-10a28aaa29e0",
+          "selectedOption": "Document File (pdf, docx, txt, etc)",
+          "taskIoputId": "ab8d8753-87d4-4701-bf22-f99e6a55a156",
+          "name": null
+        },
+        "tag": null
+      }
+    ],
+    "taskInputs": [
+      {
+        "taskInputId": "af01d5ef-59e7-4896-a177-bbb8fe586814",
+        "mappingType": "DATA",
+        "otherTaskOutputId": null,
+        "otherTaskId": null,
+        "isRequired": true,
+        "inputValidator": {
+          "ioputId": "d95d4449-6721-4997-b271-7bea1581f1d1",
+          "selectedOption": "Boolean (Yes/No)",
+          "taskIoputId": "d6b3262e-9933-4380-8cd8-4471edbf3e2f",
+          "name": null
+        },
+        "fileId": [],
+        "r_files": [],
+        "data": "",
+        "tag": null
+      }
+    ],
+    "workflowTaskId": "5c10a6f9-868e-41f0-a504-f054270b217b",
+    "orderPartId": "65129468-4ee5-4ae8-90ac-937c5b326620",
+    "serviceName": "Applicant Review",
+    "addons": [],
+    "assignees": [],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T19:11:09",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "0494d197-6561-4ece-8bba-bf91cd2d8f8b",
+    "jobId": "DVJOBID",
+    "orderId": "DRAFT",
+    "orderUUID": "4717a7ba-1e3b-4c41-89d1-f3d5e455559f",
+    "taskTitle": "task 3",
+    "status": "CREATED",
+    "comments": null,
+    "dueDate": null,
+    "staffInstruction": null,
+    "createdAt": "2025-03-27T19:11:09",
+    "updatedAt": "2025-03-27T19:11:09",
+    "taskOutputs": [
+      {
+        "taskOutputId": "0de8f266-e8ec-4b4d-8c48-60909090b37b",
+        "mappingType": null,
+        "r_files": [],
+        "fileId": [],
+        "data": null,
+        "status": null,
+        "outputValidator": {
+          "ioputId": "2f256f4b-926a-4745-a1a0-10a28aaa29e0",
+          "selectedOption": "Document File (pdf, docx, txt, etc)",
+          "taskIoputId": "e97ea294-52c3-44b0-9d6d-6d4edf1cd93d",
+          "name": null
+        },
+        "tag": null
+      }
+    ],
+    "taskInputs": [
+      {
+        "taskInputId": "11e21213-f400-4f24-add8-1085d219bcb2",
+        "mappingType": "TASK_OUTPUT",
+        "otherTaskOutputId": "47845afe-d0e6-45ca-b50a-0efcc97ba60a",
+        "otherTaskId": "7c5bea99-4004-4115-bbfa-8eb60e601bd2",
+        "isRequired": true,
+        "inputValidator": {
+          "ioputId": "d95d4449-6721-4997-b271-7bea1581f1d1",
+          "selectedOption": "Document File (pdf, docx, txt, etc)",
+          "taskIoputId": "237a2253-766b-4801-a7ae-2ae15b8cc99f",
+          "name": null
+        },
+        "fileId": [],
+        "r_files": [],
+        "data": null,
+        "tag": null
+      },
+      {
+        "taskInputId": "a8896cca-0f30-4934-b938-39b87d9574eb",
+        "mappingType": "TASK_OUTPUT",
+        "otherTaskOutputId": "47845afe-d0e6-45ca-b50a-0efcc97ba60a",
+        "otherTaskId": "7c5bea99-4004-4115-bbfa-8eb60e601bd2",
+        "isRequired": true,
+        "inputValidator": {
+          "ioputId": "d95d4449-6721-4997-b271-7bea1581f1d1",
+          "selectedOption": "Document File (pdf, docx, txt, etc)",
+          "taskIoputId": "d50b2f0d-663e-4eba-afdb-5d51abaf895b",
+          "name": null
+        },
+        "fileId": [],
+        "r_files": [],
+        "data": null,
+        "tag": null
+      }
+    ],
+    "workflowTaskId": "ada577ce-be4d-441b-bc45-2f93b3f11d67",
+    "orderPartId": "65129468-4ee5-4ae8-90ac-937c5b326620",
+    "serviceName": "Applicant Review",
+    "addons": [],
+    "assignees": [],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T19:11:09",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "9f38c002-b16b-4698-ba1a-9446892f8f00",
+    "jobId": "DVJOBID",
+    "orderId": "DRAFT",
+    "orderUUID": "4717a7ba-1e3b-4c41-89d1-f3d5e455559f",
+    "taskTitle": "Task 2",
+    "status": "CREATED",
+    "comments": null,
+    "dueDate": null,
+    "staffInstruction": null,
+    "createdAt": "2025-03-27T19:11:09",
+    "updatedAt": "2025-03-27T19:11:09",
+    "taskOutputs": [
+      {
+        "taskOutputId": "83cc1bde-f99c-4339-95f2-c69294494f1f",
+        "mappingType": null,
+        "r_files": [],
+        "fileId": [],
+        "data": null,
+        "status": null,
+        "outputValidator": {
+          "ioputId": "2f256f4b-926a-4745-a1a0-10a28aaa29e0",
+          "selectedOption": "Document File (pdf, docx, txt, etc)",
+          "taskIoputId": "ab8d8753-87d4-4701-bf22-f99e6a55a156",
+          "name": null
+        },
+        "tag": null
+      }
+    ],
+    "taskInputs": [
+      {
+        "taskInputId": "978726e4-ccb2-43e7-bcac-e6f796abe805",
+        "mappingType": "DATA",
+        "otherTaskOutputId": null,
+        "otherTaskId": null,
+        "isRequired": true,
+        "inputValidator": {
+          "ioputId": "d95d4449-6721-4997-b271-7bea1581f1d1",
+          "selectedOption": "Boolean (Yes/No)",
+          "taskIoputId": "d6b3262e-9933-4380-8cd8-4471edbf3e2f",
+          "name": null
+        },
+        "fileId": [],
+        "r_files": [],
+        "data": "",
+        "tag": null
+      }
+    ],
+    "workflowTaskId": "b83ea33c-1625-48f3-a30b-cf2a043abc64",
+    "orderPartId": "65129468-4ee5-4ae8-90ac-937c5b326620",
+    "serviceName": "Applicant Review",
+    "addons": [],
+    "assignees": [],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T19:11:09",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "5d376555-079d-4837-98de-c403affbd8ac",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Cd task",
+    "status": null,
+    "comments": null,
+    "dueDate": "2025-03-28",
+    "staffInstruction": "dsadadsad",
+    "createdAt": "2025-03-27T12:15:43",
+    "updatedAt": "2025-03-27T12:16:11",
+    "taskOutputs": [],
+    "taskInputs": [],
+    "workflowTaskId": "",
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      },
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      },
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T12:15:43",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T12:15:43",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "0d2f22a0-c9d0-4ecd-a577-78314677293c",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Atomic Task",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": "2025-03-25",
+    "staffInstruction": null,
+    "createdAt": "2025-03-27T11:45:21",
+    "updatedAt": "2025-03-27T11:46:07",
+    "taskOutputs": [],
+    "taskInputs": [],
+    "workflowTaskId": "",
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      },
+      {
+        "assigneeId": "e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "assigneeName": "Donald T Jr",
+        "assigneeEmail": "dj@gmail.com"
+      },
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T11:45:21",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:45:21",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:46:41",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:46:41",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b,db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:47:28",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:47:28",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "17deba07-2d10-4f08-9801-42caf1060a42",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Bold",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": "2025-03-14",
+    "staffInstruction": null,
+    "createdAt": "2025-03-27T11:33:19",
+    "updatedAt": "2025-03-27T11:34:06",
+    "taskOutputs": [],
+    "taskInputs": [],
+    "workflowTaskId": "",
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      },
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T11:33:19",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:33:19",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:34:27",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:34:27",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:34:43",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:34:43",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "f01ceca9-0b22-4e98-923d-9b6bbafc7478",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "m task",
+    "status": null,
+    "comments": null,
+    "dueDate": "2025-03-19",
+    "staffInstruction": "m task",
+    "createdAt": "2025-03-27T11:23:39",
+    "updatedAt": "2025-03-27T11:23:39",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      },
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T11:23:39",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:23:39",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "2fb9687f-cf7a-4a0a-8e9f-dfb5424dc66f",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "ABCD Test",
+    "status": null,
+    "comments": null,
+    "dueDate": "2025-03-27",
+    "staffInstruction": "Test ",
+    "createdAt": "2025-03-27T06:14:08",
+    "updatedAt": "2025-03-27T06:14:08",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "cceb685b-b21a-4391-8e76-2b6db49d8f2f",
+        "assigneeName": "Test testing",
+        "assigneeEmail": "test@gmail.com"
+      },
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T06:14:08",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",cceb685b-b21a-4391-8e76-2b6db49d8f2f,db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T06:14:08",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "f32e4022-c8ba-4ede-ba1a-d730412bcc01",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "ABC Task",
+    "status": null,
+    "comments": null,
+    "dueDate": "2025-03-27",
+    "staffInstruction": "Task for test",
+    "createdAt": "2025-03-27T05:58:42",
+    "updatedAt": "2025-03-27T06:00:03",
+    "taskOutputs": [],
+    "taskInputs": [],
+    "workflowTaskId": "",
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      },
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      },
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      },
+      {
+        "assigneeId": "58aacb35-93f4-46bb-b11f-2a6dd3133ccf",
+        "assigneeName": "test test",
+        "assigneeEmail": "david@capitaltyping.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-27T05:58:42",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,d3cfcf62-328c-441f-b262-86f64daf66a7,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T05:58:42",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "6ded6408-df6d-4dc5-8274-c9300fa5f72c",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Blog Post",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": "2025-03-12",
+    "staffInstruction": null,
+    "createdAt": "2025-03-26T11:22:52",
+    "updatedAt": "2025-03-26T11:22:52",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      },
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      },
+      {
+        "assigneeId": "e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "assigneeName": "Donald T Jr",
+        "assigneeEmail": "dj@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T11:22:52",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T11:22:52",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T11:23:27",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T11:23:27",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T11:23:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T11:23:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:34:27",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:34:27",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:34:43",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:34:43",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b,2241e460-27c2-4267-a357-164d14cff297",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,2241e460-27c2-4267-a357-164d14cff297,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:35:07",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:35:07",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "8cb85259-72d2-4c71-b6b0-594e25796747",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Atomic",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": "2025-03-07",
+    "staffInstruction": null,
+    "createdAt": "2025-03-26T09:56:56",
+    "updatedAt": "2025-03-26T09:56:56",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T09:56:56",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:56:56",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T11:23:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T11:23:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b,db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:46:41",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:46:41",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",c40de282-3b52-433f-ae53-db75e3fe961b,db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "related2": ",c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T11:47:00",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T11:47:00",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "afa0cfc2-d46f-4037-bf44-0172e33fe30a",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Ace",
+    "status": null,
+    "comments": null,
+    "dueDate": "2025-03-04",
+    "staffInstruction": "Ace",
+    "createdAt": "2025-03-26T07:19:07",
+    "updatedAt": "2025-03-26T07:19:07",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T07:19:07",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T07:19:07",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "998ff15c-372a-49f7-bcbc-4c5f16ab3d48",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Accounts",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": null,
+    "staffInstruction": null,
+    "createdAt": "2025-03-26T06:13:44",
+    "updatedAt": "2025-03-26T06:13:44",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T06:13:44",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T06:13:44",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:58:33",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:58:33",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:58:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:58:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:59:49",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:59:49",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "9073f62a-353a-42c8-85a3-b260eb3093e3",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "A Task",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": null,
+    "staffInstruction": null,
+    "createdAt": "2025-03-26T06:05:42",
+    "updatedAt": "2025-03-26T06:05:42",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      },
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T06:05:42",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T06:05:42",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:58:33",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:58:33",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:58:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:58:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:59:49",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:59:49",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:00:19",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:00:19",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "55c625d6-1dc0-4805-ad6c-c9ffc3119ce7",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "A new task",
+    "status": "-",
+    "comments": null,
+    "dueDate": "2025-03-26",
+    "staffInstruction": "A new task",
+    "createdAt": "2025-03-26T05:45:07",
+    "updatedAt": "2025-03-26T05:45:07",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      },
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      },
+      {
+        "assigneeId": "e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "assigneeName": "Donald T Jr",
+        "assigneeEmail": "dj@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T05:45:07",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T05:45:07",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "7e0b40c4-f65d-41dd-b809-a85235aa9673",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "global state",
+    "status": "-",
+    "comments": null,
+    "dueDate": "2025-03-18",
+    "staffInstruction": "global state",
+    "createdAt": "2025-03-26T05:44:14",
+    "updatedAt": "2025-03-26T05:44:14",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      },
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T05:44:14",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T05:44:14",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "bad8e8e8-37af-49e6-888e-dbd3e0b35431",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Check Task",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": "2025-03-04",
+    "staffInstruction": "",
+    "createdAt": "2025-03-26T05:32:38",
+    "updatedAt": "2025-03-27T15:44:53",
+    "taskOutputs": [],
+    "taskInputs": [],
+    "workflowTaskId": "",
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      },
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      },
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T05:32:38",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T05:32:38",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,c40de282-3b52-433f-ae53-db75e3fe961b,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T12:16:36",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T12:16:36",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "d0788f11-05f0-4cb4-86a4-fe189019521a",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "New latest task",
+    "status": "-",
+    "comments": null,
+    "dueDate": "2025-03-01",
+    "staffInstruction": "New Latest task",
+    "createdAt": "2025-03-26T05:31:42",
+    "updatedAt": "2025-03-26T05:31:42",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      },
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      },
+      {
+        "assigneeId": "c40de282-3b52-433f-ae53-db75e3fe961b",
+        "assigneeName": "John Wick",
+        "assigneeEmail": "john@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T05:31:42",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T05:31:42",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "262e6f30-0cae-42ba-8880-b0d48b2ebfce",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Latest task",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": null,
+    "staffInstruction": null,
+    "createdAt": "2025-03-26T05:27:56",
+    "updatedAt": "2025-03-26T05:27:56",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T05:27:56",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T05:27:56",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:54:56",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:54:56",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:58:33",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:58:33",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:58:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:58:53",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:59:49",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:59:49",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:58:40",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:58:40",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "37c4e14f-b283-434e-83e8-74855680cddd",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Latest task",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": "",
+    "staffInstruction": "",
+    "createdAt": "2025-03-26T05:24:43",
+    "updatedAt": "2025-03-26T18:40:10",
+    "taskOutputs": [],
+    "taskInputs": [],
+    "workflowTaskId": "",
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      },
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-26T05:24:43",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T05:24:43",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T08:50:00",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T08:50:00",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T08:50:25",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T08:50:25",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,2241e460-27c2-4267-a357-164d14cff297",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:49:31",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:49:31",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:51:00",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:51:00",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,2241e460-27c2-4267-a357-164d14cff297",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:52:52",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:52:52",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:54:30",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:54:30",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,2241e460-27c2-4267-a357-164d14cff297",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:54:39",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:54:39",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "related2": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T09:54:56",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T09:54:56",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:05:19",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:05:19",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:07:20",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:07:20",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:07:30",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:07:30",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:43:15",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:43:15",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:58:40",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:58:40",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T11:32:18",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T11:32:18",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T11:54:03",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T11:54:03",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7,2241e460-27c2-4267-a357-164d14cff297",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T17:55:10",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T17:55:10",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T18:01:23",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T18:01:23",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "0c179702-22ee-40e7-9b16-f4529820c137",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "fffffffffff",
+    "status": "-",
+    "comments": null,
+    "dueDate": "2025-03-28",
+    "staffInstruction": "asdfasdfdsafsa",
+    "createdAt": "2025-03-25T21:06:22",
+    "updatedAt": "2025-03-25T21:06:22",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-25T21:06:22",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-25T21:06:22",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "acfa8b9b-d598-49ca-a507-f5926b9eb985",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "Hello",
+    "status": "ASSIGNED",
+    "comments": null,
+    "dueDate": "",
+    "staffInstruction": "",
+    "createdAt": "2025-03-25T21:05:36",
+    "updatedAt": "2025-03-27T06:09:45",
+    "taskOutputs": [],
+    "taskInputs": [],
+    "workflowTaskId": "",
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      },
+      {
+        "assigneeId": "e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "assigneeName": "Donald T Jr",
+        "assigneeEmail": "dj@gmail.com"
+      },
+      {
+        "assigneeId": "cceb685b-b21a-4391-8e76-2b6db49d8f2f",
+        "assigneeName": "Test testing",
+        "assigneeEmail": "test@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-25T21:05:36",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,cceb685b-b21a-4391-8e76-2b6db49d8f2f,c40de282-3b52-433f-ae53-db75e3fe961b,ca74742c-8870-4089-a49c-7ac4292c51a8",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-25T21:05:36",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,cceb685b-b21a-4391-8e76-2b6db49d8f2f,c40de282-3b52-433f-ae53-db75e3fe961b,ca74742c-8870-4089-a49c-7ac4292c51a8",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:05:18",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:05:18",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:07:20",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:07:20",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:07:30",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:07:30",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:43:15",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:43:15",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297,c40de282-3b52-433f-ae53-db75e3fe961b",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T10:58:21",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T10:58:21",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",2241e460-27c2-4267-a357-164d14cff297",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T11:32:18",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T11:32:18",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-26T11:54:03",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-26T11:54:03",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T05:29:18",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T05:29:18",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,2241e460-27c2-4267-a357-164d14cff297",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,2241e460-27c2-4267-a357-164d14cff297,cceb685b-b21a-4391-8e76-2b6db49d8f2f",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T05:52:34",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T05:52:34",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,2241e460-27c2-4267-a357-164d14cff297,cceb685b-b21a-4391-8e76-2b6db49d8f2f",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T05:53:44",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T05:53:44",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7,2241e460-27c2-4267-a357-164d14cff297,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T05:56:41",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T05:56:41",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": ",d3cfcf62-328c-441f-b262-86f64daf66a7,2241e460-27c2-4267-a357-164d14cff297,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "related2": ",d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,cceb685b-b21a-4391-8e76-2b6db49d8f2f,2241e460-27c2-4267-a357-164d14cff297",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-27T06:08:13",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": "",
+        "eventType": "RESOURCE_UPDATED",
+        "dateTime": "2025-03-27T06:08:13",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task File updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "6fcc2307-b2eb-421a-bd98-2b145071e86a",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "test task 2",
+    "status": "-",
+    "comments": null,
+    "dueDate": "2025-03-27",
+    "staffInstruction": "testttt",
+    "createdAt": "2025-03-21T19:04:50",
+    "updatedAt": "2025-03-21T19:04:50",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      },
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      },
+      {
+        "assigneeId": "e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2",
+        "assigneeName": "Donald T Jr",
+        "assigneeEmail": "dj@gmail.com"
+      },
+      {
+        "assigneeId": "944faa08-291e-46a5-98a5-bcac076bebb4",
+        "assigneeName": "tet test",
+        "assigneeEmail": "tet@gmail.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-21T19:04:50",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,d3cfcf62-328c-441f-b262-86f64daf66a7,e8de0cda-f7cc-41e7-b07e-fc2d97fb88e2,944faa08-291e-46a5-98a5-bcac076bebb4",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-21T19:04:50",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  },
+  {
+    "taskId": "3a572c23-77c8-4a49-bf28-2e7a36d73911",
+    "jobId": "DVJOBID",
+    "orderId": "N/A",
+    "orderUUID": null,
+    "taskTitle": "taskyyyyyy",
+    "status": "-",
+    "comments": null,
+    "dueDate": "2025-03-22",
+    "staffInstruction": "test",
+    "createdAt": "2025-03-21T18:59:54",
+    "updatedAt": "2025-03-21T18:59:54",
+    "taskOutputs": null,
+    "taskInputs": null,
+    "workflowTaskId": null,
+    "orderPartId": null,
+    "serviceName": null,
+    "addons": [],
+    "assignees": [
+      {
+        "assigneeId": "2241e460-27c2-4267-a357-164d14cff297",
+        "assigneeName": "hammas khan",
+        "assigneeEmail": "hmk@gmail.com"
+      },
+      {
+        "assigneeId": "cceb685b-b21a-4391-8e76-2b6db49d8f2f",
+        "assigneeName": "Test testing",
+        "assigneeEmail": "test@gmail.com"
+      },
+      {
+        "assigneeId": "db3ba4cb-3bad-4fc9-bbfa-004f5adc8132",
+        "assigneeName": "Kevin Clark",
+        "assigneeEmail": "kevin@clark.com"
+      },
+      {
+        "assigneeId": "d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "assigneeName": "ajay acd",
+        "assigneeEmail": "abcd@xyz.com"
+      }
+    ],
+    "files": [],
+    "auditTrail": [
+      {
+        "related1": "CREATED",
+        "related2": "CREATED",
+        "eventType": "STATUS_CHANGED",
+        "dateTime": "2025-03-21T18:59:54",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Created by the user",
+        "linkedId": null
+      },
+      {
+        "related1": "",
+        "related2": ",2241e460-27c2-4267-a357-164d14cff297,cceb685b-b21a-4391-8e76-2b6db49d8f2f,db3ba4cb-3bad-4fc9-bbfa-004f5adc8132,d3cfcf62-328c-441f-b262-86f64daf66a7",
+        "eventType": "ASSIGNMENT_UPDATED",
+        "dateTime": "2025-03-21T18:59:54",
+        "executorId": "david@capitaltyping.com",
+        "comments": "Task Assignee updated by the user",
+        "linkedId": null
+      }
+    ]
+  }
+]

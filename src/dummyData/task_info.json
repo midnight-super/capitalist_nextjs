@@ -1,0 +1,52 @@
+{
+  "title": "Lorem Ipsum",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "id": "MD-2025-001",
+  "status": "Completed",
+  "createdOn": "17 Mar 2024, 2:00 PM",
+  "dueDate": "25 Mar 2024, 2:00 PM",
+  "lastUpdated": "17 Mar 2024, 2:00 PM",
+  "completedOn": "20 Mar 2024, 3:00 PM",
+  "createdBy": "Serhii Movchan",
+  "assignedTo": "Vasilii Kovalchuk",
+  "attachments": [
+    {
+      "name": "myfile.pdf",
+      "reference": "Order Reference"
+    },
+    {
+      "name": "close-up-photo-lettuce-growing-raise-bed.png",
+      "reference": "Planting Guidelines"
+    },
+    {
+      "name": "color_palette.pdf",
+      "reference": "Design Reference"
+    }
+  ],
+  "activityLog": [
+    {
+      "user": "Serhii Movchan",
+      "time": "17 Mar 2024, 2:00 PM",
+      "action": "● Created",
+      "description": "Task created with initial details"
+    },
+    {
+      "user": "Vasilii Kovalchuk",
+      "time": "18 Mar 2024, 11:30 AM",
+      "action": "● Commented",
+      "description": "Requested clarification on due date"
+    },
+    {
+      "user": "Serhii Movchan",
+      "time": "19 Mar 2024, 9:45 AM",
+      "action": "● Updated",
+      "description": "Updated description and due date"
+    },
+    {
+      "user": "Vasilii Kovalchuk",
+      "time": "20 Mar 2024, 3:00 PM",
+      "action": "● Completed",
+      "description": "Marked task as completed"
+    }
+  ]
+}

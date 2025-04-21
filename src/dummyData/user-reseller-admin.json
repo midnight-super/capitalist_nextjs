@@ -1,0 +1,77 @@
+{
+  "id": "deadbeef-dead-beef-babe-beef-deadbeef04",
+  "userId": "deadbeef-dead-beef-babe-beef-deadbeef04",
+  "username": "pete@pinkpanther.com",
+  "status": "ACTIVE",
+
+  "fullName": "Peter Reseller",
+  "email": "pete@pinkpanther.com",
+
+  "roles": ["Inspector", "RESELLERADMIN", "Leader"],
+
+  "permissions": {
+    "p_order": {
+      "permissionRead": true,
+      "permissionWrite": true,
+      "permissionDelete": false,
+      "permissionCreate": true
+    },
+    "p_staff": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    },
+    "p_file": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    },
+    "p_client": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    },
+    "p_service": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    },
+    "p_task": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    },
+    "p_taskType": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    },
+    "p_workflow": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    },
+    "p_reseller": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    },
+    "p_designation": {
+      "permissionRead": false,
+      "permissionWrite": false,
+      "permissionDelete": false,
+      "permissionCreate": false
+    }
+  },
+
+  "tokenType": "Bearer",
+  "accessToken": "token04"
+}

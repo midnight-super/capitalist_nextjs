@@ -1,0 +1,16 @@
+import React from 'react';
+
+const OnlineIcon = ({ color }) => {
+  return (
+    <svg
+      width="8"
+      height="9"
+      viewBox="0 0 8 9"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <circle cx="4" cy="4.75" r="4" fill={color || '#C4C4C4'} />
+    </svg>
+  );
+};
+export default OnlineIcon;

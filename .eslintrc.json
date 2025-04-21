@@ -1,0 +1,18 @@
+// TODO: Fix or disable lint warnings, validate config
+
+
+// {
+//   "extends": [
+//     "eslint:recommended",
+//     "plugin:prettier/recommended"
+//   ]
+// }
+
+
+// {
+//   "extends": ["next/core-web-vitals"],
+//   "rules": {
+//     "react/react-in-jsx-scope": "off",
+//     "@next/next/no-img-element": "off"
+//   }
+// }

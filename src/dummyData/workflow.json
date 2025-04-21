@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Configure Workflows 1",
+        "tasks": [
+            "Task 1",
+            "Task 2"
+        ],
+        "description": "This is Configure Workflows 1 description",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "name": "Configure Workflows 2",
+        "tasks": [
+            "Task 3",
+            "Task 4",
+            "Task 5"
+        ],
+        "description": "This is Configure Workflows 1 description",
+        "status": "Pending"
+    },
+    {
+        "id": 3,
+        "name": "Configure Workflows 3",
+        "tasks": [
+            "Task 6",
+            "Task 7"
+        ],
+        "description": "This is Configure Workflows 1 description",
+        "status": "Pending"
+    }
+]

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>pause</title>
+	<defs>
+		<image  width="20" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAMAAABWBG9SAAAAAXNSR0IB2cksfwAAAE5QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////kDxURQAAABp0Uk5TAGvc76UVFqbbX//CAcNeJsDdQ0Ilv8Fq7qT2XY0bAAAAaUlEQVR4nO2SWwqAIBBFvaC9QSOh/S8vkCgIw6ys0WgPQffjzsxhPg8YKJ6lZNiFCyhx78ASWYPjbo460CXmCKVP762jWYwRdit1/sOvQrXRrEyE2lLXSYbGPjIEsoCD9bOCebU59SSHC2HNWdScjLdpAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="6" y="2"/>
+</svg>
